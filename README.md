@@ -23,22 +23,22 @@ Create an account in https://www.themoviedb.org/, click on the `API` link from t
 6. Hurray! That's it.
 
 ## Landing Page ##
-![alt text](image.png)
+![alt text](images-readme/image.png)
 
 ## After you search for a movie ##
-![alt text](image-1.png)
+![alt text](images-readme/image-1.png)
 
 ## Landing page for a movie ##
-![alt text](image-2.png)
+![alt text](images-readme/image-2.png)
 
 ## Actor Description ##
-![alt text](image-3.png)
+![alt text](images-readme/image-3.png)
 
 ## User reviews ##
-![alt text](image-4.png)
+![alt text](images-readme/image-4.png)
 
 ## Other recommended movies ##
-![alt text](image-5.png)
+![alt text](images-readme/image-5.png)
 
 ### Sources of the datasets 
 
